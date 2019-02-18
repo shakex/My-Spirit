@@ -47,7 +47,6 @@ In MY SPIRIT, players will first be introduced by Jerry’s memoirs and start th
 |Chapter II: 1974|Real world: factory|Years later, Jerry was in his youth. He came to the Industrial world, which was the symbol of modern civilization. The Industrial world brought about more puzzles, which were solved by Jerry using ‘Out of body’.|
 |Chapter III: 2002|Real world: city|2002, Jerry came to the city, the city world was colorful yet full of temptations. With the help of his soul, he finally passed the last test about human nature.|
 |Epilogue: 2047|Real world: city/spirit world|Jerry began to recall his life at the ripe old age of 98 and wrote the memoirs. He passed away peacefully in 2047. soon later, his soul left his body forever and back to the spirit world.|
-|
 
 
 ## Game Mechanics
