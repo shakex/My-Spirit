@@ -36,6 +36,14 @@ In MY SPIRIT, players will first be introduced by Jerry’s memoirs and start th
 
 > *the state of flesh: refer to the state that the soul and body are not separated.*
 
+## Player controls
+* XBOX one
+![assets](images/controls_xbox.png)
+
+* PC
+![assets](images/controls_pc.png)
+
+
 ## Game experience
 * In MY SPIRIT, we put the game into a story, thus the experience consists of the experience of playing the game and the experience of listening to the story.
 * The game experience can be divided into the following five ‘Phases’.
