@@ -1,4 +1,4 @@
-# My-Spirit
+# My Spirit
 
 ![assets](images/assets2.jpg)
 
