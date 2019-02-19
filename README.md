@@ -73,6 +73,6 @@ In MY SPIRIT, players will first be introduced by Jerry’s memoirs and start th
     * Put our story into the game; follow the example of the narrative technique in theatres
 
 
-
+For more information, please contact [kxie.cs@gmail.com](mailto:kxie.cs@gmail.com)
 
 
